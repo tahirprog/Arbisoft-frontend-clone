@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fff;
+}
+
+.top-container{
+    background-color:rgb(30, 171, 30);
+    height: 100px;
+    width: 100%; 
+}
+
+.logo{
+  position: relative;
+  left: 100px;
+  top: 10px;
+}
+
+.dropdown{
+  position: relative;
+  left:900px ;
+}
