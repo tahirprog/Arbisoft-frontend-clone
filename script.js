@@ -1,0 +1,1 @@
+log.consol("hello world")
